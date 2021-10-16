@@ -1,0 +1,22 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "node rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrianusTinas95/noderest.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "TinDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrianusTinas95/noderest/issues"
+  },
+  "homepage": "https://github.com/AndrianusTinas95/noderest#readme"
+}
